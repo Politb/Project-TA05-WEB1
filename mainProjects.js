@@ -20,9 +20,8 @@ const projects = [
     },
     {
       title: "Third project",
-      description: "            This project is a mobile application that helps users track their fitness goals. It includes features like workout logging, progress tracking, and social sharing.",
-      image:
-        "https://images.unsplash.com/photo-1669570094762-828f3dfaf675?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80",
+      description: `This project introduces the essential concepts of CSS. It explores the three main ways to apply styles and uses shared and page‑specific styles to structure and design multiple HTML pages. The work also covers the CSS box model, selector types, and layout techniques, applying them to redesign two existing pages.`,
+      image: "img/css.png",
       tech: ["React", "HTML5", "CSS3", "JavaScript"],
       github: "http://github.com/myuser/proyecto3",
       link: "www.proyecto1.com",
